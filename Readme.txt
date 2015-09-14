@@ -24,3 +24,8 @@ Dandy
 Git traces changes, not files.
 
 Dandy
+
+/**************     2nd Manage modification ***********/
+Warning: This is second tracking changes.
+
+Dandy

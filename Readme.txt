@@ -5,3 +5,12 @@ Hope to get more familiar with Git.
 
 Enjoy~
 Dandy
+
+/*********************** I'm Dandy ***************************/
+Hello, This is my Git learning process.
+This is my second commit
+
+Hope to develop a perfect iOS app and publish to App Store.
+
+Enjoy~
+Dandy

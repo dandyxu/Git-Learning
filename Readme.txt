@@ -41,9 +41,9 @@ Create a new branch and modify the last content in order to invesigate the confl
 
 Dandy
 
-/*************** 2nd conflicts test ********************/
-This is 2nd test about conflicts on git.
-The conflicts content is below.
-I wanna to learn more about the code.
+/************* feature2 Solve conflicts ************/
+This is the feature2 new branch to test conflicts on git.
+The conflict content is below:
+I really want to learn more about the code.
 
 Dandy

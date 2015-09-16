@@ -33,4 +33,6 @@ Dandy
 /**************   Modified in dev branch  *************/
 This modification is on dev branch, not on master branch.
 
+Hello, this modification is on master branch.
+
 Dandy

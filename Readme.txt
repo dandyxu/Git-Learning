@@ -31,6 +31,11 @@ Warning: This is second tracking changes.
 Dandy
 
 /**************   Modified in dev branch  *************/
-This modification is on dev branch, not on master branch.
+This modification is on dev branch.
+
+Dandy
+
+/**************  Solve conflicts      ****************/
+Create a new branch and modify the last content in order to invesigate the conflicts solution.
 
 Dandy

@@ -36,7 +36,14 @@ This modification is on dev branch.
 Dandy
 
 /**************  Solve conflicts      ****************/
-Create a new branch and modify the last content in order to invesigate the conflict solution +++.
+Create a new branch and modify the last content in order to invesigate the conflicted solution.
 
+
+Dandy
+
+/*************** 2nd conflicts test ********************/
+This is 2nd test about conflicts on git.
+The conflicts content is below.
+I wanna to learn more about the code.
 
 Dandy

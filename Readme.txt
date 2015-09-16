@@ -36,8 +36,7 @@ This modification is on dev branch.
 Dandy
 
 /**************  Solve conflicts      ****************/
-Create a new branch and modify the last content in order to invesigate the conflicted solution.--------
+Create a new branch and modify the last content in order to invesigate the conflict solution +++.
 
-Hello, this modification is on master branch.
 
 Dandy

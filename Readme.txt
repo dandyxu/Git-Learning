@@ -40,3 +40,10 @@ Create a new branch and modify the last content in order to invesigate the confl
 
 
 Dandy
+
+/************* feature2 Solve conflicts ************/
+This is the feature2 new branch to test conflicts on git.
+The conflict content is below:
+I really want to learn more about the code.
+
+Dandy

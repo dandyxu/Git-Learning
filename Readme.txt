@@ -47,3 +47,8 @@ The conflict content is below:
 I really want to learn more about the code.
 
 Dandy
+
+/***************Change HTTPS to SSH *****************/
+Test for change transferring HTTPS to SSH
+
+Dandy

@@ -52,3 +52,8 @@ Dandy
 Test for change transferring HTTPS to SSH
 
 Dandy
+
+/*************** Git stash ************************/
+Test for git stash function
+
+Dandy
